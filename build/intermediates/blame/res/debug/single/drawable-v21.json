@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Projects\\Nanodegree\\xyz-reader-starter-code-master\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\white_selectable_item_background_circle.xml",
+        "source": "C:\\Projects\\Nanodegree\\xyz-reader-starter-code-master\\XYZReader\\src\\main\\res\\drawable-v21\\white_selectable_item_background_circle.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Nanodegree\\xyz-reader-starter-code-master\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Users\\James\\.android\\build-cache\\02b6533f1b2a206987b86dd391c5d99ed7995b2a\\output\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Nanodegree\\xyz-reader-starter-code-master\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Users\\James\\.android\\build-cache\\02b6533f1b2a206987b86dd391c5d99ed7995b2a\\output\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Nanodegree\\xyz-reader-starter-code-master\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\James\\.android\\build-cache\\7d9cd127023346c94dbe519b5b3b088149d37142\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Nanodegree\\xyz-reader-starter-code-master\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\James\\.android\\build-cache\\7d9cd127023346c94dbe519b5b3b088149d37142\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Nanodegree\\xyz-reader-starter-code-master\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Users\\James\\.android\\build-cache\\02b6533f1b2a206987b86dd391c5d99ed7995b2a\\output\\res\\drawable-v21\\design_password_eye.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Nanodegree\\xyz-reader-starter-code-master\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\James\\.android\\build-cache\\7d9cd127023346c94dbe519b5b3b088149d37142\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Nanodegree\\xyz-reader-starter-code-master\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\James\\.android\\build-cache\\02b6533f1b2a206987b86dd391c5d99ed7995b2a\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Nanodegree\\xyz-reader-starter-code-master\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\James\\.android\\build-cache\\7d9cd127023346c94dbe519b5b3b088149d37142\\output\\res\\drawable-v21\\notification_action_background.xml"
+    }
+]

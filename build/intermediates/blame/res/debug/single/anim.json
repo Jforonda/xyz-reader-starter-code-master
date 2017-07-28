@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "C:\\Projects\\Nanodegree\\xyz-reader-starter-code-master\\XYZReader\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\James\\.android\\build-cache\\02b6533f1b2a206987b86dd391c5d99ed7995b2a\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Nanodegree\\xyz-reader-starter-code-master\\XYZReader\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\James\\.android\\build-cache\\7d9cd127023346c94dbe519b5b3b088149d37142\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Nanodegree\\xyz-reader-starter-code-master\\XYZReader\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\James\\.android\\build-cache\\7d9cd127023346c94dbe519b5b3b088149d37142\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Nanodegree\\xyz-reader-starter-code-master\\XYZReader\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\James\\.android\\build-cache\\7d9cd127023346c94dbe519b5b3b088149d37142\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Nanodegree\\xyz-reader-starter-code-master\\XYZReader\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\James\\.android\\build-cache\\02b6533f1b2a206987b86dd391c5d99ed7995b2a\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Nanodegree\\xyz-reader-starter-code-master\\XYZReader\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\James\\.android\\build-cache\\02b6533f1b2a206987b86dd391c5d99ed7995b2a\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Nanodegree\\xyz-reader-starter-code-master\\XYZReader\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\James\\.android\\build-cache\\7d9cd127023346c94dbe519b5b3b088149d37142\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Nanodegree\\xyz-reader-starter-code-master\\XYZReader\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\James\\.android\\build-cache\\7d9cd127023346c94dbe519b5b3b088149d37142\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Nanodegree\\xyz-reader-starter-code-master\\XYZReader\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\James\\.android\\build-cache\\02b6533f1b2a206987b86dd391c5d99ed7995b2a\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Nanodegree\\xyz-reader-starter-code-master\\XYZReader\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\James\\.android\\build-cache\\7d9cd127023346c94dbe519b5b3b088149d37142\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Nanodegree\\xyz-reader-starter-code-master\\XYZReader\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\James\\.android\\build-cache\\7d9cd127023346c94dbe519b5b3b088149d37142\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Nanodegree\\xyz-reader-starter-code-master\\XYZReader\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\James\\.android\\build-cache\\7d9cd127023346c94dbe519b5b3b088149d37142\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Nanodegree\\xyz-reader-starter-code-master\\XYZReader\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\James\\.android\\build-cache\\7d9cd127023346c94dbe519b5b3b088149d37142\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Projects\\Nanodegree\\xyz-reader-starter-code-master\\XYZReader\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\James\\.android\\build-cache\\7d9cd127023346c94dbe519b5b3b088149d37142\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    }
+]
